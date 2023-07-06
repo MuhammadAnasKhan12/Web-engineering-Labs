@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../DSA CLASS"
+		},
+		{
+			"path": "../../../c++"
+		},
+		{
+			"path": "../../../JS_Sandbox/dom"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web engineering labs"
+	}
+}

@@ -1,0 +1,49 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.main{
+    margin-top: 60px;
+    margin-left: 20%;
+    
+}
+.head{
+    text-align: center;
+    padding: 20px;
+}
+.box{
+    width: 60vw;
+    height: 80vh;
+    background-color: rgb(193, 191, 191);    
+}
+
+.form1{
+    width:90%;
+    height: 85%;
+    background-color: rgb(170, 209, 244);
+    margin: auto;
+ 
+}
+.name{
+    display: flex;
+    
+}
+.name input{
+    width: 100%;    
+    
+}
+
+.size-left{
+    border: 2px solid black;
+    width: 40%;
+    display:flex;
+    justify-content:flex-end;
+    padding: 2%;
+}
+.size-right{
+    border: 2px solid black;
+    width: 50%; 
+    padding: 2%;   
+
+}
+
